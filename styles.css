@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #E3F6F5;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    border-radius: 10px;
+    background-color: #FFD803;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #272343;
+}
